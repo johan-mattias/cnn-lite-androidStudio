@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/adrian/android-ndk/android2/app/build/intermediates/res/merged/debug/layout/logtextview.xml",
+        "source": "/home/adrian/android-ndk/android2/app/src/main/res/layout/logtextview.xml"
+    },
+    {
+        "merged": "/home/adrian/android-ndk/android2/app/build/intermediates/res/merged/debug/layout/main_layout.xml",
+        "source": "/home/adrian/android-ndk/android2/app/src/main/res/layout/main_layout.xml"
+    }
+]
